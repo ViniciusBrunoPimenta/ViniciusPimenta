@@ -588,28 +588,28 @@ main-text h2{
 }
 
 .skill-bar .bar .html{
-    width: 90%;
+    width: 95%;
     animation: html 2s;
 }
 
 .skill-bar .bar .figma{
-    width: 95%;
+    width: 92%;
     animation: figma 3s;
 
 }
 
 .skill-bar .bar .javascript{
-    width: 90%;
+    width: 88%;
     animation: javascript 4s;
 
 }
 
 .skill-bar .bar .css{
-    width: 75%;
+    width: 85%;
     animation: css 5s;
 }
 .skill-bar .bar .python{
-    width: 80%;
+    width: 94%;
     animation: css 5s;
 }
 
